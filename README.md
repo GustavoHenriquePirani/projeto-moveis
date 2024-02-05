@@ -1,1 +1,1 @@
-Projetp feito como exercicio de apredizagem durante curson da Rockeseat.
+Projeto feito como exercicio de apredizagem durante curso da Rockeseat.
